@@ -12,13 +12,28 @@
 
   h1 {
     color: #66bfbf;
+    font-family: 'Work Sans', sans-serif;
+
   }
 
   h3 {
     color: #66bfbf;
+    font-family: 'Work Sans', sans-serif;
+
   }
 
-  @font-face {
-    font-family: 'Work Sans', sans-serif;
-    src: url('https://fonts.googleapis.com/css?family=Work+Sans');
-  }
+p{
+  font-family: 'Work Sans', sans-serif;
+}
+table{
+  font-family: 'Work Sans', sans-serif;
+
+}
+ul{
+  font-family: 'Work Sans', sans-serif;
+
+}
+ol{
+  font-family: 'Work Sans', sans-serif;
+
+}
